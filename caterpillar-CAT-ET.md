@@ -13,7 +13,10 @@
   - ECM order form (yellow slip) 
   - work orders of original 
     - if original ECM was communicating when received a 
-       workorder will exist using filename format customerName(INITIAL/FINAL) MM-D-YY ex: Texas Diesel (INTIAL) 1-21-22.pdf
+       workorder will exist using filename format customerName(INITIAL/FINAL) MM-D-YY 
+       ex: Texas Diesel (INTIAL) 1-21-22.pdf
+    - ecm replacement file will also exist with same format but with .xls file type
+       ex: Texas Diesel (INTIAL) 1-21-22.xls   
        
 **Required Information if no work orders** see below for details 
 1. Engine serial number
@@ -72,8 +75,8 @@
     - FV FW
       - Compatible with
       - 7AS only
-        -FV for non GM chasis
-        -FW **ONLY** for GM Chasis
+        - FV for non GM chasis
+        - FW **ONLY** for GM Chasis
     - IC
       - Compatible with
     - IH
