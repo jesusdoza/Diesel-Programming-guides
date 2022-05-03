@@ -87,7 +87,7 @@
     to bring up find tool and type in the **first 3 digits of serial numbers**
 
   - once you find the section for your serial make sure the files you Select
-    is compatible with your serial number by paying attention to ==**serial number range**==
+    is compatible with your serial number by paying attention to **serial number range**
     below both flash files are for a 6NZ engine but only one of them is compatible with
     the serial range **6NZ12345**
     ![6nz-range1](images/6nz-range1.png)
