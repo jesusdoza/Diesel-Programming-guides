@@ -90,6 +90,7 @@
     is compatible with your serial number by paying attention to **serial number range**
     below both flash files are for a 6NZ engine but only one of them is compatible with
     the serial range **6NZ12345**
+    ![flash-heading](images/flash-header.png)
     ![6nz-range1](images/6nz-range1.png)
-    ![6nz-range1](images/6nz-range2.png)
+    ![6nz-range2](images/6nz-range2.png)
 ## Section 4 Create work orders
