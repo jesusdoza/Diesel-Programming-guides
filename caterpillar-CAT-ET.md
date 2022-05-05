@@ -59,13 +59,7 @@
       - 2KS
       - 3CS
       - 1MM
-    - IK
-      - Compatible with
-      - 6NZ
-      - 7CZ
-      - MBN
-      - MBL
-      - HEP
+
     - IE
       - Compatible with
       - KAL
@@ -73,12 +67,13 @@
       - FML
       - FMM
       - SAP
+      
     - JJ
       - Compatible with
       - BXS
       - KCB
       - KCA
-      -
+
     - KC
       - Compatible with
       - 8YL
@@ -87,11 +82,16 @@
       - HEP
       - 9SZ
       - LEF
+
     - FV FW
       - Compatible with
-      - 7AS only
+      - 7AS
         - FV for **NON** GM chasis
         - FW **ONLY** for GM Chasis
+      - 8YL
+        - FV for **NON** GM chasis
+        - FW **ONLY** for GM Chasis
+
     - IC
       - Compatible with
       - 8YL
@@ -100,7 +100,16 @@
       - HEP
       - 9SZ
       - LEF
+
     - IH
+      - Compatible with
+      - 6NZ
+      - 7CZ
+      - MBN
+      - MBL
+      - HEP
+
+    - IK
       - Compatible with
       - 6NZ
       - 7CZ
@@ -140,6 +149,6 @@
   - click on features and parameters buttion
     - ![CatET-feats](#)
 
-  - when screen loads you will see something similar to this 
+  - when screen loads you will see something similar to this
 
 ## Section 6 Create Woekorders
