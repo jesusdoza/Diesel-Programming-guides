@@ -4,7 +4,9 @@
 1. Gather Engine Info
 2. Select correct ECM partnumber
 3. Select correct flash file number
-4. Create work orders
+4. Connect and Flash ECM
+5. Modify Features and Parameters
+6. Create work orders
 
 
 ## Section 1 Gather Engine Info
@@ -54,33 +56,57 @@
       - 6NZ
       - 7CZ
       - 2WS
-      - 2KS ... others to be added
+      - 2KS
+      - 3CS
+      - 1MM
     - IK
       - Compatible with
+      - 6NZ
+      - 7CZ
       - MBN
       - MBL
+      - HEP
     - IE
       - Compatible with
       - KAL
       - WAX
+      - FML
+      - FMM
+      - SAP
     - JJ
       - Compatible with
       - BXS
       - KCB
+      - KCA
+      -
     - KC
       - Compatible with
       - 8YL
       - 7AS
-      -
+      - CKM
+      - HEP
+      - 9SZ
+      - LEF
     - FV FW
       - Compatible with
       - 7AS only
-        - FV for non GM chasis
+        - FV for **NON** GM chasis
         - FW **ONLY** for GM Chasis
     - IC
       - Compatible with
+      - 8YL
+      - 7AS
+      - CKM
+      - HEP
+      - 9SZ
+      - LEF
     - IH
       - Compatible with
+      - 6NZ
+      - 7CZ
+      - MBN
+      - MBL
+      - HEP
 ## Sectino 3 Select correct flash file number
   - Open flash-file-list.pdf on desktop
   - using engine serial first 3 digits ex: 6nz from **6nz**12345 press control + f
@@ -93,4 +119,27 @@
     ![flash-heading](images/flash-header.png)
     ![6nz-range1](images/6nz-range1.png)
     ![6nz-range2](images/6nz-range2.png)
-## Section 4 Create work orders
+
+## Section 4 Connect and Flash ECM
+  - click on CAT ET desktop application
+      - ![CatET-icon](#)
+  - click connect button
+      - ![CatET-connect](#)
+  - click Winflash buttion
+      - ![CatET-winflash](#)
+  - load flash file you selected from section 3
+      - ![CatET-load](#)
+  - click flash button
+      - ![CatET-flash](#)
+  - when finished click back to CAT ET
+      - ![CatET-return-to-catet](#)
+## Section 5 Modify Features and Parameters
+  - after flash you must add missing truck parameters when you flash you program the engine specifications
+    but depending on the application the engine can go into multiple trucks so you have to modify the features
+    to fit the truck
+  - click on features and parameters buttion
+    - ![CatET-feats](#)
+
+  - when screen loads you will see something similar to this 
+
+## Section 6 Create Woekorders
