@@ -140,11 +140,12 @@
     ![6nz-range2](images/6nz-range2.png)
 
 ## Section 4 Connect and Flash ECM
-  - Cat ET menu
-      - ![CatET-menu](images/catet-menu.png)
+ 
 
   - click on CAT ET desktop application
       - ![CatET-icon](images/catet-icon.png)
+  - Cat ET menu
+      - ![CatET-menu](images/catet-menu.png)
   - click connect button
       - ![CatET-connect](images/connect.png)
   - click Winflash buttion
