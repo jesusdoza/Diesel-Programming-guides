@@ -67,7 +67,7 @@
       - FML
       - FMM
       - SAP
-      
+
     - JJ
       - Compatible with
       - BXS
@@ -108,6 +108,11 @@
       - MBN
       - MBL
       - HEP
+      - 8YL
+      - 7AS
+      - CKM
+      - 9SZ
+      - LEF
 
     - IK
       - Compatible with
@@ -116,6 +121,11 @@
       - MBN
       - MBL
       - HEP
+      - 8YL
+      - 7AS
+      - CKM
+      - 9SZ
+      - LEF
 ## Sectino 3 Select correct flash file number
   - Open flash-file-list.pdf on desktop
   - using engine serial first 3 digits ex: 6nz from **6nz**12345 press control + f
@@ -130,14 +140,17 @@
     ![6nz-range2](images/6nz-range2.png)
 
 ## Section 4 Connect and Flash ECM
+  - Cat ET menu
+      - ![CatET-menu](images/catet-menu.png)
+
   - click on CAT ET desktop application
-      - ![CatET-icon](#)
+      - ![CatET-icon](images/catet-icon.png)
   - click connect button
-      - ![CatET-connect](#)
+      - ![CatET-connect](images/connect.png)
   - click Winflash buttion
-      - ![CatET-winflash](#)
-  - load flash file you selected from section 3
-      - ![CatET-load](#)
+      - ![CatET-winflash](images/winflash.png)
+  - load flash file you selected from section 3 using browse button
+      - ![CatET-load](images/browse.png)
   - click flash button
       - ![CatET-flash](#)
   - when finished click back to CAT ET
@@ -147,8 +160,8 @@
     but depending on the application the engine can go into multiple trucks so you have to modify the features
     to fit the truck
   - click on features and parameters buttion
-    - ![CatET-feats](#)
+    - ![CatET-feats](images/features.png)
 
   - when screen loads you will see something similar to this
 
-## Section 6 Create Woekorders
+## Section 6 Create Workorders
