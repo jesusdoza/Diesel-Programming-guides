@@ -50,7 +50,7 @@
 
 ## Section 2 Select Correct ECM Partnumber
   - Board type
-    - KM KA
+    - KM KA - C16, C15, C12, C10, 3406
       - Compatible with
       - 6NZ
       - 7CZ
@@ -59,7 +59,7 @@
       - 3CS
       - 1MM
 
-    - IE
+    - IE - C7
       - Compatible with
       - KAL
       - WAX
@@ -67,13 +67,13 @@
       - FMM
       - SAP
 
-    - JJ
+    - JJ - C15, C13 twin turbo
       - Compatible with
       - BXS
       - KCB
       - KCA
 
-    - KC
+    - KC - 3126
       - Compatible with
       - 8YL
       - 7AS
@@ -82,7 +82,7 @@
       - 9SZ
       - LEF
 
-    - FV FW
+    - FV FW - 3126
       - Compatible with
       - 7AS
         - FV for **NON** GM chasis
@@ -91,7 +91,7 @@
         - FV for **NON** GM chasis
         - FW **ONLY** for GM Chasis
 
-    - IC
+    - IC - 3126
       - Compatible with
       - 8YL
       - 7AS
@@ -100,7 +100,7 @@
       - 9SZ
       - LEF
 
-    - IH
+    - IH - C15, C12, C10, 3406, 3126 
       - Compatible with
       - 6NZ
       - 7CZ
@@ -113,7 +113,7 @@
       - 9SZ
       - LEF
 
-    - IK
+    - IK - C15, C12, C10, 3406, 3126 
       - Compatible with
       - 6NZ
       - 7CZ
